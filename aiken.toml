@@ -1,11 +1,11 @@
-name = "butaneprotocol/smartish-sale"
+name = "butaneprotocol/launchpad-validators"
 version = "0.0.0"
 license = "Apache-2.0"
-description = "Aiken contracts for project 'butaneprotocol/smartish-sale'"
+description = "Aiken contracts for project 'butaneprotocol/launchpad-validators'"
 
 [repository]
 user = "butaneprotocol"
-project = "smartish-sale"
+project = "launchpad-validators"
 platform = "github"
 
 [[dependencies]]
