@@ -11,3 +11,7 @@ This was audited with the understanding that it would be closed source during th
 
 # Known Issues
 - Address bytearray lengths aren't validated in deposit, so it's possible with bad offchain a user locks their own funds
+
+# Audit
+
+Thanks to Pi (Sundaeswap) for his help increasing our security assurances. We caught bugs and significantly improved the reliability of the contracts thank to him. Report available https://cdn.sundaeswap.finance/butane-sale.pdf
