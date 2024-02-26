@@ -180,7 +180,7 @@ export abstract class LaunchPad {
               recipient: {
                 paymentCredential: { VerificationKeyCredential: [ownKeyHash] },
                 stakeCredential: {
-                  Inline: [{ VerificationKeyCredential: [ownKeyHash] }],
+                  Inline: [{ VerificationKeyCredential: [ownReward] }],
                 },
               },
               lockedLovelace: lovelace,
