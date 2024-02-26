@@ -1,0 +1,14 @@
+name = "butaneprotocol/smartish-sale"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'butaneprotocol/smartish-sale'"
+
+[repository]
+user = "butaneprotocol"
+project = "smartish-sale"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.7.0"
+source = "github"
